@@ -1,7 +1,6 @@
-using Calculators;
 using Xunit;
 
-namespace Test {
+namespace Calculators.Test {
     public class CalculatorShould {
         [Fact]
         public void AddTwoNumbers() {
